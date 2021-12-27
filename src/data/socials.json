@@ -1,0 +1,23 @@
+[
+  {
+    "platform": "Instagram",
+    "username": "ptolemysTelescope",
+    "active": true,
+    "link": "https://www.instagram.com/instagram/",
+    "lastUpdated": "01/01/2022"
+  },
+  {
+    "platform": "LinkedIn",
+    "username": "ptolemy4hire",
+    "active": true,
+    "link": "https://www.linkedin.com",
+    "lastUpdated": "01/01/2022"
+  },
+  {
+    "platform": "Github",
+    "username": "doesPtolemyCode?",
+    "active": true,
+    "link": "https://github.com",
+    "lastUpdated": "01/01/2022"
+  }
+]

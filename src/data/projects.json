@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Almagest",
+    "url": "https://github.com",
+    "technologies": ["react.js", "gatsby", "tailwind.css", "graphql", "node.js"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "date": "2022-01-01"
+  },
+  {
+    "name": "Guide to Geography",
+    "url": "https://github.com",
+    "technologies": ["node.js", "cli"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "date": "2022-01-01"
+  },
+  {
+    "name": "Optica",
+    "url": "https://github.com/uosoftwareclub",
+    "technologies": ["react.js", "gatsby", "graphql", "python", "node.js"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+    "date": "2022-01-01"
+  }
+]
